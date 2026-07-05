@@ -29,14 +29,18 @@ export const Route = createRootRoute({
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Lovable App" },
-      { name: "description", content: "Lovable Generated Project" },
+      { title: "Cutting Edge Salon — Luxury Hair & Beauty in Shahdara, Delhi" },
+      { name: "description", content: "Cutting Edge Salon in Subhash Park, Shahdara offers luxury haircuts, coloring, hair spa and grooming. Friendly environment, expert stylists. Open daily 9:30 AM – 9:30 PM." },
       { name: "author", content: "Lovable" },
-      { property: "og:title", content: "Lovable App" },
-      { property: "og:description", content: "Lovable Generated Project" },
+      { property: "og:title", content: "Cutting Edge Salon — Luxury Hair & Beauty in Shahdara, Delhi" },
+      { property: "og:description", content: "Cutting Edge Salon in Subhash Park, Shahdara offers luxury haircuts, coloring, hair spa and grooming. Friendly environment, expert stylists. Open daily 9:30 AM – 9:30 PM." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "Cutting Edge Salon — Luxury Hair & Beauty in Shahdara, Delhi" },
+      { name: "twitter:description", content: "Cutting Edge Salon in Subhash Park, Shahdara offers luxury haircuts, coloring, hair spa and grooming. Friendly environment, expert stylists. Open daily 9:30 AM – 9:30 PM." },
+      { property: "og:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/attachments/og-images/444608bf-5947-4fd8-9001-de5c46cd0457" },
+      { name: "twitter:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/attachments/og-images/444608bf-5947-4fd8-9001-de5c46cd0457" },
     ],
     links: [
       {
