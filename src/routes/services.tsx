@@ -30,10 +30,10 @@ const categories = [
     title: "Hair Cutting & Styling",
     img: haircutImg,
     items: [
-      { name: "Women's Signature Cut", price: "₹ 600+" },
+      { name: "Women's Signature Cut", price: "₹ 250+" },
       { name: "Men's Haircut", price: "₹ 250+" },
       { name: "Kids' Haircut", price: "₹ 200" },
-      { name: "Blow Dry & Styling", price: "₹ 400+" },
+      { name: "Blow Dry & Styling", price: "₹ 200+" },
       { name: "Hair Wash & Conditioning", price: "₹ 200" },
     ],
   },
